@@ -1,0 +1,20 @@
+h1 {
+    color: #ff0000;
+    margin-bottom: 10px; }
+  
+  h3 {
+    color: #0000ff;
+    margin-bottom: 20px; }
+  
+  .card-course {
+    color: #0000ff;
+    margin-top: 20px; }
+  
+  .user-avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%; }
+  
+  .color-white {
+    color: white; }
+  
